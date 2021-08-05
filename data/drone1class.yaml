@@ -7,9 +7,8 @@
 
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: ../dataset_1classV7/images/train/  #  images
-val: ../dataset_1classV7/images/test/  #  images
-
+train: ../dataset_1class_augV7/images/train/  #  images
+val: ../dataset_1class_augV7/images/test/  #  images
 # number of classes
 nc: 1
 
